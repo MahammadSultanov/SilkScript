@@ -1,0 +1,861 @@
+{
+  "ea19224a-381a-4153-87bc-ae05338c1fc7": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 5,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "The sun beats down on Hasan Khan's courtyard, where Alı kişi stands trembling before his master and a visiting Pasha. His decades of loyal service are now overshadowed by a perceived insult.",
+      "text": "Hasan Khan, enraged by Alı kişi's insistence that the scrawny colts are superior, demands he find two magnificent stallions for the Pasha within the hour. Alı kişi knows Hasan Khan's prized horses are mere show, lacking the untamed spirit of the sea-born colts. He is dismissed with a snarl and given an impossible task. Now, forced to choose between blind obedience and risking the wrath of his master, Alı kişi must decide on his next course of action. What will he do?",
+      "mood": "tense",
+      "choices": [
+        "Defy Hasan Khan and reveal the origin of the seemingly inferior colts.",
+        "Attempt to secretly substitute the colts for the Khan's prized stallions.",
+        "Plead with the Pasha to see the potential in the overlooked animals.",
+        "Try to convince Hasan Khan to test the colts before judging their worth.",
+        "Flee the khanate, leaving everything behind to protect the colts."
+      ]
+    },
+    "created_at": "2025-07-20T02:14:12.605660",
+    "updated_at": "2025-07-20T02:14:12.605666"
+  },
+  "895b5515-350a-4839-949f-dbd99de509e9": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 5,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "The aged Alı kişi has spent his life tending Həsən xan's horses, but a fateful encounter with mystical steeds from the sea has set events in motion. Now, his loyalty and wisdom are tested before a visiting dignitary.",
+      "text": "Həsən xan, enraged by Alı kişi's insistence that only the seemingly weak two-year-old colts are worthy, demands he find two fitting steeds for the visiting Pasha within the hour. Alı kişi, knowing the true potential hidden within those colts and fearing the xan’s wrath, feels the weight of his years and a deep sense of foreboding. He knows that choosing the wrong horses could bring disgrace, but revealing the truth might lead to even greater consequences. The sun beats down, and the Khan’s gaze burns. Alı kişi must decide how to act, and quickly.",
+      "mood": "tense",
+      "choices": "Attempt to explain again the colts' true nature, risking further angering the Khan.\nSecretly sabotage the other horses, making the colts the only viable option.\nPlead with the Pasha to choose the colts, appealing to his wisdom and experience.\nObey the Khan and present two ordinary horses, betraying his own knowledge.\nStall for time by claiming he needs a special ritual to choose the right horses.",
+      "cultural_info": "This story draws on Azerbaijani folklore where horses are not just animals but symbols of power, freedom, and destiny. The importance of respecting elders and the weight of one’s word are also key themes."
+    },
+    "created_at": "2025-07-20T02:14:16.025183",
+    "updated_at": "2025-07-20T02:14:16.025192"
+  },
+  "751a3498-a5a3-4924-9a99-1362acb1cc50": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 5,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "The wind whips across the vast steppes of Azerbaijan, carrying whispers of legends and impending doom. Old Alı kişi stands before Həsən xan, his fate hanging by a thread.",
+      "text": "\"Xan, onda izn ver paşa üçün ayğır seçməyə başqa...\" Alı kişi paused, his weathered face etched with defiance despite the simmering rage of Həsən xan. He knew choosing ordinary horses would be a fatal error, yet revealing the true potential of the Derya horses might bring even greater trouble. Hasan Khan expects a solution, and the Pasha watches with cynical eyes. Alı kişi has to act fast - what should he do?",
+      "mood": "tense",
+      "choices": [
+        "Boldly insist that the Derya horses are the only worthy steeds.",
+        "Attempt to subtly prove the Derya horses' worth through a quick test.",
+        "Stall for more time, hoping for a divine intervention or lucky break.",
+        "Calmly suggest another ilxici might be better suited to judge the horses.",
+        "Apologize profusely and offer the Pasha his own life as recompense."
+      ]
+    },
+    "created_at": "2025-07-20T02:14:39.382541",
+    "updated_at": "2025-07-20T02:14:39.382550"
+  },
+  "051d6b3e-8d7f-419d-98da-78db5712541d": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 5,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "The wind whispers tales of ancient lands and legendary heroes. You are Alı kişi, a weathered horseman standing at the precipice of a fateful decision that will shape the destiny of generations.",
+      "text": "Həsən Xan, blind with rage and wounded pride, has given you an impossible task: find two steeds worthy of a Pasha within the hour, or face dire consequences. He scoffs at your judgment regarding the mysterious colts born of the sea. Now, standing before the bustling stables filled with supposedly prized horses, you feel the weight of your years and the sting of injustice, knowing only the sea-born colts possess the true potential.",
+      "mood": "tense",
+      "choices": "Defy Həsən Xan and insist on the colts' worth, regardless of the consequences.\nScour the stables for two impressive, albeit lesser, horses to appease the Pasha.\nPlead for more time, hoping to convince Həsən Xan of the colts' true value.\nSabotage the other horses, making the colts seem superior by comparison.\nSecretly flee the Khan's service, abandoning the colts to their fate.",
+      "cultural_info": "In Azerbaijani culture, honor and reputation are paramount, especially for leaders like Khans. Disrespecting a guest, especially a high-ranking one like a Pasha, is a grave offense that could lead to serious repercussions."
+    },
+    "created_at": "2025-07-20T02:14:47.856841",
+    "updated_at": "2025-07-20T02:14:47.856848"
+  },
+  "b3b98db4-6245-49ac-a278-459052bd891b": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 5,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "Dust devils dance across the sun-baked plains of Azerbaijan, where legends are etched into the very stones. Old Alı kişi stands accused, his lifetime of service to Hasan Khan hanging precariously in the balance.",
+      "text": "Hasan Khan, enraged and humiliated by Alı kişi's insistence on presenting scrawny, two-year-old colts to his esteemed guest, Paşa, demands Alı kişi find two worthy stallions within the hour. Alı kişi knows the colts are far more than they appear, descended from mythical sea horses, but how can he prove it to the furious Khan and the skeptical Paşa? Time is running out and Alı kişi must act swiftly to redeem himself and protect the extraordinary horses he raised. He eyes the expansive stable, the worried faces of the other stablehands, and then Paşa, whose eyes hold amusement and anticipation.",
+      "mood": "tense",
+      "choices": "Plead with Hasan Khan, revealing the colts' true lineage and potential.\nOffer Paşa a private demonstration of the colts' unique abilities unseen by Hasan Khan.\nSabotage the selection of other stallions, highlighting the colts as the only viable option.\nDemand a test of strength and speed, proving the colts' worth through action, not appearance.\nConcoct a distraction, allowing the colts to escape and prove their worth in the wild.",
+      "cultural_info": "The story draws on Azeri folklore, particularly the tale of Koroghlu, a heroic outlaw famed for his extraordinary horse, Gyrat, often linked to supernatural origins and fierce independence. Honor and reputation are paramount in this cultural context."
+    },
+    "created_at": "2025-07-20T02:15:27.617688",
+    "updated_at": "2025-07-20T02:15:27.617698"
+  },
+  "6fcb2343-c9e8-4f57-a067-a88996850400": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 5,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "The weight of Hasan Khan's disappointment hangs heavy in the air, thick with the scent of horses and dust. Old Ali, his trusted horse master, stands defiant, his weathered face etched with a knowledge the Khan refuses to see.",
+      "text": "Hasan Khan, enraged and humiliated in front of his esteemed guest Pasha, has given Ali a near impossible task: find two horses worthy of presentation within the hour. Ali knows the finest horses in the stable, but the Khan is blinded by appearances. The future of not only Ali, but potentially even the reputation of the whole Khanate rests on this impossible decision. Time seems to slow as Ali considers his next move.",
+      "mood": "tense",
+      "choices": "Attempt to convince Hasan Khan to reconsider the two young horses he originally selected.\nSecretly sabotage the most impressive horses to make them unsuitable for presentation.\nPlead with Pasha directly, explaining his knowledge of horses and the true worth.\nBuy time by feigning illness, hoping the Khan will reconsider in his absence.\nChoose two seemingly impressive horses, risking Pasha's disdain and the Khan's wrath.",
+      "cultural_info": "The story revolves around the importance of horses in nomadic cultures and the deep connection between horse masters and their animals. A Khan's reputation was often tied to the quality of his horses, reflecting wealth, power, and prestige."
+    },
+    "created_at": "2025-07-20T02:15:33.202262",
+    "updated_at": "2025-07-20T02:15:33.202271"
+  },
+  "ef369ad0-7979-4f89-9109-ddbcb1352fe8": {
+    "story_name": "koroghlu",
+    "language": "azerbaijani",
+    "max_choices": 5,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "The fate of Alı Kişi hangs in the balance, his long service to Həsən xan threatened by a hasty decision. A visiting Pasha demands prized horses, and Alı Kişi’s unconventional suggestion has enraged his master.",
+      "text": "Alı kişi dedi: \"Xan, onda izn ver paşa üçün ayğır seçməyə başqa bir bəhanə uydurum, vaxt qazanım. Belə etməsək, paşa bizdən şübhələnəcək. İcazə ver, deyim ki, ən yaxşı atlar dağdadır, onları tapmaq vaxt aparacaq. Amma bu yalan olacaq və xanın hörmətini zədələyəcək. Digər tərəfdən, doğrudan da dağlara gedib, orada gizlənən atları axtara bilərəm, amma bu da vaxt itkisi olacaq. Ya da heç bir bəhanə etməyib, həqiqəti paşaya danışım, amma xanın qəzəbinə tuş gələ bilərəm. Həqiqətən, mən nə etməliyəm?\"",
+      "mood": "tense",
+      "choices": "Paşaya yalan danışmaq üçün Həsən xandan icazə istəyin.\nDağlara at axtarmağa gedin, xanı və paşanı gözlətməyə razı salın.\nDərhal həqiqəti paşaya açıqlayın və nəticələrə hazır olun.\nHəsən xanın qəzəbini soyutmaq üçün yalvarın və vaxt istəyin.\nİki dayı paşaya verməyə razı salmağa çalışın, onları tərifləyin.",
+      "cultural_info": "The story emphasizes the importance of honor (\"başını uca eləmək\" - to hold one's head high) and the hierarchical structure of society, where the Khan's word is law. The concept of \"amanat\" (something entrusted) may also be relevant in later parts of the story."
+    },
+    "created_at": "2025-07-20T02:15:40.686464",
+    "updated_at": "2025-07-20T02:15:40.686472"
+  },
+  "554a17c9-bfdb-45c7-a3b9-8c2737c2f0e8": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 1,
+    "history": [
+      {
+        "node_text": "Hasan Khan, enraged by Alı kişi's words, demands that he find two magnificent stallions worthy of his guest, the Pasha, within the hour. Alı kişi, despite his years of service, is threatened with dire consequences if he fails. He glances at the two young foals, the secret children of the sea, hidden amongst the rest of the horses. He remembers the mystical circumstances of their birth and knows their true potential. Will he obey the Khan's command and attempt the impossible, or will he risk everything to reveal the truth about the unique foals?",
+        "choice_text": "Reveal the truth about the sea foals and face the Khan's wrath",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:16:24.881724"
+      }
+    ],
+    "current_node": {
+      "text": "Alı kişi stepped forward, his weathered face etched with determination. He bowed deeply to Hasan Khan and the Pasha. \"Effendi Khanım, forgive my boldness, but these are no ordinary horses. These dayılar are the offspring of madyans and sea horses, imbued with the strength and spirit of the Derya itself!\" He recounted the tale of the sea horses appearing from the depths, his voice trembling but firm.",
+      "mood": "tense",
+      "choices": [
+        "Betray the sea foals, claiming to have been mistaken about their origin",
+        "Endure the Khan's fury and reveal the prophecy he gleaned from the sea",
+        "Plead with the Pasha, hoping for a sympathetic ear",
+        "Challenge the Pasha to a horse race to prove the foals' worth",
+        "Ask the village elders to determine the horses' worth"
+      ],
+      "cultural_info": "[Revealing supernatural origins and prophecies is a serious matter in Azerbaijani folklore and often carries significant consequences.]"
+    },
+    "created_at": "2025-07-20T02:16:16.477441",
+    "updated_at": "2025-07-20T02:16:24.881736"
+  },
+  "74591926-4da5-4581-b8da-42a4a6af2834": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 1,
+    "history": [
+      {
+        "node_text": "Hasan Khan, enraged by Alı kişi's insistence on offering the seemingly worthless colts to his esteemed guest, Paşa, has issued an impossible ultimatum. He demands that Alı kişi, within the hour, find two magnificent stallions worthy of the Paşa from the Khan's own stables. Alı kişi knows the colts are special, carrying the blood of mythical sea horses, but can he prove their worth in time? Failure means certain punishment, perhaps even death. The sands of time are running out, and Hasan Khan's fury burns like a desert fire.",
+        "choice_text": "Reveal the colts' true lineage, risking disbelief and further anger from the Khan",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:17:07.290143"
+      }
+    ],
+    "current_node": {
+      "text": "\"Khan,\" he began, his voice surprisingly firm despite his age, \"these are no ordinary colts. Their mothers consorted with the horses of the Derya, the sea. They possess the blood of legends, unmatched speed and strength.\" The Paşa raised an eyebrow, intrigued, while Həsən xan's face darkened with disbelief and growing fury.",
+      "mood": "tense",
+      "choices": [
+        "Claim the colts can outrun any horse in the Khan's stable",
+        "Offer to demonstrate the colts' abilities on the spot",
+        "Quietly insist the colts are simply young and need more time",
+        "Suggest a test of strength, instead of speed",
+        "Remain silent and await the Khan's judgment, fearing the consequences"
+      ],
+      "cultural_info": "In Azerbaijani culture, a person's word is often taken as a bond, especially between a servant and their master. Challenging the Khan's judgment is a serious offense."
+    },
+    "created_at": "2025-07-20T02:17:01.943141",
+    "updated_at": "2025-07-20T02:17:07.290156"
+  },
+  "c7190427-6310-427d-992a-06c8c0ab566d": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 1,
+    "history": [
+      {
+        "node_text": "Hasan Khan, eager to impress his guest Pasha, demands two magnificent stallions from Alı kişi. Alı kişi, trusting in the sea-born foals’ hidden potential, insists they are the best despite their unassuming appearance. The Pasha scoffs, and Hasan Khan, furious at the perceived insult, gives Alı kişi one hour to find two horses worthy of his name and the Pasha's esteem. Standing amidst the restless horses, Alı kişi now faces a desperate choice.",
+        "choice_text": "Reveal the foals’ mystical origins to Hasan Khan, risking ridicule and disbelief",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:17:19.900409"
+      }
+    ],
+    "current_node": {
+      "text": "Alı kişi stepped forward, his weathered face etched with a mixture of fear and determination. He bowed deeply to Hasan Khan and the visiting Pasha. \"Khanım,\" he began, his voice trembling slightly, \"Forgive my impertinence, but these are no ordinary foals. Their mothers... they came from the sea itself.\" He recounted the tale of the sea horses, the mysterious mating, and the tireless care he had given the young horses, hoping Hasan Khan would understand.",
+      "mood": "tense",
+      "choices": [
+        "[Choice 1: The Pasha mocks Alı kişi mercilessly, humiliating him]",
+        "[Choice 2: Hasan Khan, intrigued, demands proof of the foals' lineage",
+        "]",
+        "[Choice 3: Alı kişi attempts to demonstrate the foals' special abilities immediately",
+        "]",
+        "[Choice 4: Alı kişi claims he was simply testing their courage and loyalty",
+        "]",
+        "[Choice 5: The foals react violently to the Pasha, proving Alı kişi's words",
+        "]"
+      ],
+      "cultural_info": ""
+    },
+    "created_at": "2025-07-20T02:17:15.540292",
+    "updated_at": "2025-07-20T02:17:19.900421"
+  },
+  "b844c34a-dc44-498f-b686-2ec17ed85700": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 15,
+    "history": [
+      {
+        "node_text": "Alı kişi, facing Hasan Khan's wrath, has been given an impossible task: find two magnificent stallions worthy of the Pasha within an hour. He knows the strength and potential hidden within the two colts born of the sea, but the Khan is blinded by appearances. Time is running out, and the Pasha's judgment could bring disgrace upon the Khan and dire consequences for Alı kişi. He has an hour to pick stallions, the fate of the colts hanging in the balance.",
+        "choice_text": "Stall for time by feigning a thorough search of the entire horse herd",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:24:40.335508"
+      },
+      {
+        "node_text": "Alı kişi lowered his head respectfully and said, \"My Khan, the best horses are scattered among the herd. Allow me to search them out for your esteemed guest.\" He knew stalling was a gamble, but he needed time to think. With deliberate slowness, Alı kişi began to walk among the horses, carefully examining each one, pretending to look for the finest specimens. He was hoping the daylars would catch the Pasha's eye, they were very well-built for their age.",
+        "choice_text": "[Choice 2: Secretly replace the daylars with actual stallions from the herd.]",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:24:44.213618"
+      },
+      {
+        "node_text": "Alı kişi's mind raced. He knew the colts' true potential, but outward appearances mattered to the Khan and his guest. He mumbled an apology, bowing low before the Khan and the Pasha, claiming he would scour the herd for suitable replacements. While the Khan and Pasha continued their conversation, Alı kişi slipped away towards the grazing horses, his heart pounding with a desperate plan. He swiftly located two sturdy, well-muscled stallions from the herd, their coats gleaming in the sun.",
+        "choice_text": "[Choice 4: Pray for a miracle to reveal the colts' hidden strength",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:24:54.817720"
+      },
+      {
+        "node_text": "Desperate, Alı kişi turned his face towards the sky, silently pleading to Allah for guidance. He begged for a sign, some divine intervention to reveal the true potential hidden within the seemingly ordinary colts. As he closed his eyes, a sudden gust of wind swept through the herd, causing the horses to rear and neigh in fright. The two colts, however, stood their ground, their eyes blazing with an unearthly light.",
+        "choice_text": "[Choice 1: Present the colts, hoping their defiance is enough",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:05.668041"
+      },
+      {
+        "node_text": "Alı kişi returned, leading the two colts. He presented them with a humble bow. \"My Khan,\" he announced, his voice steady despite his pounding heart, \"these may not appear as mighty as the stallions in your ilkhı. But their spirit is unmatched. Observe them.\" He then stepped back, untying the colts and freeing them into the open space before the Khan and the Pasha.",
+        "choice_text": "[Choice 3: Alı kişi boldly claims the colts are descended from sea horses.]",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:08.691125"
+      },
+      {
+        "node_text": "Alı kişi straightened his back, his eyes meeting the Pasha's skeptical gaze. \"My lord,\" he declared, his voice ringing with newfound confidence, \"these are no ordinary horses. They are descendants of the sea horses, creatures of legend, strength, and unparalleled speed. Their true power lies dormant, waiting for the right moment to be unleashed.\" He gestured towards the colts with a flourish, hoping his audacious claim would buy him more time, or perhaps even impress the Pasha with its sheer audacity.",
+        "choice_text": "[Choice 2: Həsən xan is angered by Alı kişi’s blatant disrespect.]",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:11.719265"
+      },
+      {
+        "node_text": "Həsən xan's face contorted with rage. \"Alı kişi! Are you mocking me and my guest? Presenting these scrawny colts as worthy gifts? After all these years of service, this is how you repay me? I should have you flogged for such disrespect!\" He gestured dismissively at the colts, his voice rising in anger. The Pasha looked on, a mixture of amusement and pity in his eyes.",
+        "choice_text": "[Choice 2: Alı kişi defends himself, revealing the colts' secret heritage.]",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:14.104978"
+      },
+      {
+        "node_text": "\"How dare you speak to my guest in such a manner, Alı kişi?!\" Həsən xan roared, his face reddening with fury. \"Are you implying I would offer my esteemed friend worthless nags? These are but young horses, not yet fully grown. Silence yourself, old fool, before I have you whipped for your insolence!\" The Pasha, though, raised a hand, a flicker of curiosity in his eyes despite the Khan's outburst. He seemed intrigued by Alı kişi's audacity.",
+        "choice_text": "[Choice 2: The Pasha demands a demonstration to prove or disprove Alı kişi's claims",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:17.426823"
+      },
+      {
+        "node_text": "The Pasha, intrigued despite himself, raised a hand. \"Hold, Həsən xan,\" he said, a sly glint in his eye. \"Let us not be too hasty. Alı kişi claims these beasts are descended from sea horses. A bold claim deserves a bold test. Alı kişi, if these colts possess such extraordinary lineage, prove it. I demand a demonstration.\" He settled back, a smirk playing on his lips, eager to see how the old stableman would wriggle out of this predicament.",
+        "choice_text": "[Choice 2: Alı kişi accepts, proposing a race against the Khan’s finest horse",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:20.697303"
+      },
+      {
+        "node_text": "Alı kişi, despite the Khan’s seething rage, stood tall. \"Let us settle this with a race, my lords,\" he declared, his voice firm. \"Let one of your finest horses, Khan, run against one of these 'scrawny colts'. If the colt loses, I will gladly accept any punishment you deem fit. But if it wins… perhaps then you will see their true worth.” He looked directly at the Pasha, a silent challenge in his eyes.",
+        "choice_text": "[Choice 2: The Pasha declines, suspecting trickery",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:24.223359"
+      },
+      {
+        "node_text": "The Pasha stroked his beard thoughtfully, a skeptical expression on his face. \"A race, you say? Against the Khan's best? While the notion of sea-born steeds is amusing, I suspect a trick, old man. Save your breath and the Khan's embarrassment. We shall choose from his well-bred stock, horses of proven lineage and speed.\" He turned to Həsən xan, effectively dismissing Alı kişi. \"Come, Həsən xan, let us view your prized animals.\"",
+        "choice_text": "[Choice 2: Alı kişi silently accepts his fate, a knowing glint in his eyes",
+        "mood": "Tense",
+        "timestamp": "2025-07-20T02:25:27.421752"
+      },
+      {
+        "node_text": "Alı kişi bowed his head, the fire in his eyes hidden from the Khan and Pasha. He knew arguing further would be futile, and likely lead to a swift and brutal end. He had faith in the colts, even if no one else did. A plan began to form in his mind, a dangerous gamble, but his only chance to protect the magnificent creatures.",
+        "choice_text": "[Choice 2: Alı kişi attempts to sabotage the horses, hoping they are rejected",
+        "mood": "resigned",
+        "timestamp": "2025-07-20T02:25:30.563642"
+      },
+      {
+        "node_text": "Alı kişi, his heart heavy with the Pasha's dismissal, shuffled along behind Həsən xan and the guest as they inspected the Khan's prized horses. He knew he couldn't openly defy the Khan, but perhaps a subtle act of defiance, a small imperfection, could dissuade the Pasha. As they approached a magnificent black stallion, Alı kişi subtly loosened its shoe, just enough to cause a slight limp during a test ride.",
+        "choice_text": "[Choice 1: Alı kişi secretly scares another horse",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:35.183380"
+      },
+      {
+        "node_text": "Alı kişi, feigning subservience, followed the Khan and Pasha towards the stables housing the finest horses. He muttered apologies, seemingly ashamed of his \"worthless\" colts. As they passed a particularly spirited, high-strung stallion, Alı kişi subtly flicked a pebble, hitting the horse’s flank. The stallion, startled and agitated, reared violently, nearly unseating the Khan who had approached to admire it.",
+        "choice_text": "[Choice 2: The Pasha is injured in the commotion",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:38.141063"
+      },
+      {
+        "node_text": "As the Pasha mounted a chestnut mare, Alı kişi seized his moment. He tossed a handful of pebbles at a nearby stable cat, causing it to dart out and directly under the horse’s hooves. The startled mare reared violently, throwing the Pasha from the saddle. He landed heavily, clutching his arm in pain.",
+        "choice_text": "[Choice 1: Alı kişi feigns innocence, tending to the Pasha's aid",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:25:42.567663"
+      }
+    ],
+    "current_node": {
+      "text": "Alı kişi, with surprising agility for his age, rushed to the Pasha's side, feigning concern. \"Aman, aman! Are you alright, my Pasha?\" he cried, helping the man to his feet. Həsən xan, enraged by the horse's outburst, shot daggers at Alı kişi, but the old man's apparent sincerity disarmed him, if only slightly. The Pasha, though shaken, was more amused than angered. He chuckled, brushing himself off. \"A spirited beast indeed! Perhaps a bit *too* spirited for my tastes.\"",
+      "mood": "tense",
+      "choices": [
+        "[Choice 1: Alı kişi suggests a different horse, subtly praising the colts again",
+        "]",
+        "[Choice 2: Həsən xan, furious, demands Alı kişi be punished",
+        "]",
+        "[Choice 3: The Pasha, intrigued, requests to see the colts again",
+        "]"
+      ],
+      "cultural_info": "N/A"
+    },
+    "created_at": "2025-07-20T02:24:36.788768",
+    "updated_at": "2025-07-20T02:25:42.567693"
+  },
+  "547ba82a-89a0-41c4-b993-185c7a93ac40": {
+    "story_name": "koroghlu",
+    "language": "azerbaijani",
+    "max_choices": 5,
+    "choices_made": 1,
+    "history": [
+      {
+        "node_text": "Həsən xan qəzəblənib, paşanın yanında başını uca tutmaq üçün sənə bir saat vaxt verdi. İki yaxşı ayğırlıq at seçmək əmri verildi, əks halda cəzalandırılacaqsan. Amma Alı kişi, dərya atlarından doğulmuş dayların qiymətini bilirsən. İndi necə davranacaqsan? Xan sənə ayğır seçməyə icazə verdi. Seçim sənin!",
+        "choice_text": "Gizlicə dayları paşaya təqdim etmək, xanın qəzəbinə baxmayaraq",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:26:19.557943"
+      }
+    ],
+    "current_node": {},
+    "created_at": "2025-07-20T02:26:00.489471",
+    "updated_at": "2025-07-20T02:26:19.557955"
+  },
+  "119b5e41-08e5-4a17-9923-be263ef77587": {
+    "story_name": "koroghlu",
+    "language": "azerbaijani",
+    "max_choices": 5,
+    "choices_made": 5,
+    "history": [
+      {
+        "node_text": "Həsən xan qəzəblənib dedi: “Bilmirəm. Bir saata qədər yerdə də olsa, göydə də olsa, gərək paşaya layiq, mənim adıma layiq iki yaxşı ayğırlıq at seçəsən. Bu saat get, seç, gətir.” Alı kişi dedi: “Xan, onda izn ver paşa üçün ayğır seçməyə başqa...” Onun sözü yarımçıq qaldı. Nə edəcəksən? Zaman daralır, xanın qəzəbi artır. Paşanın gözləri səndədir, Həsən xanın qəzəbi alov saçır, sən isə qərarsızsan. Seçim etməlisən!",
+        "choice_text": "\" (Vaxt qazanmaq üçün yalvarmaq)",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:26:36.582522"
+      },
+      {
+        "node_text": "Alı kişi Həsən xanın yanında qorxusundan donub qalmışdı. Nə deyəcəyini bilmirdi. Paşanın sözündən sonra Həsən xan qəzəblə Alı kişiyə tərəf döndü. \"Alı kişi, bu nə biabırçılıqdır? Mənim atlarımdan beləsi çıxmaz. Mən sənə nə tapşırmışdım?\" Alı kişi başını aşağı salıb, yalvarmağa başladı: \"Aman xan, canım sənə qurban, elə bilmə ki, bilərəkdən eləmişəm. İnan mənə, bu daylar adi daylar deyil...\"",
+        "choice_text": "Alı kişi dayların dəryadan gəlməsini izah etsin?",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:26:42.398404"
+      },
+      {
+        "node_text": "Alı kişi başını aşağı saldı, bir an susdu. Sonra cürətlənib xana dedi: “Ağam, bu daylar adi daylar deyil. Bunlar dəryadan çıxıblar! Mən öz gözlərimlə gördüm, iki madyan dəryadan gəldi, bu madyanları tapdı, sonra yenə dəryaya qayıtdılar. Bu daylar o madyanlardandır. Mən ona görə onları saxladım, başını uca eləyim dedim.” Həsən xan və paşa təəccüblə bir-birinə baxdılar.",
+        "choice_text": "Paşaya hədiyyə üçün başqa at seçmək",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:26:46.948717"
+      },
+      {
+        "node_text": "Alı kişi xanın qəzəbli baxışları altında titrəyərək dedi: \"Xanım, paşaya hədiyyə üçün ilxıdan başqa at seçərəm, əgər icazə versəniz. İlxıda sizin adına layiq, paşanı sevindirəcək neçə-neçə gözəl at var. Bu daylar hələ cavandır, tam yetişməyiblər.\" Həsən xan qaşlarını çatdı, amma paşanın marağı artmışdı. Paşanın gözləri Alı kişiyə zillənmişdi, sanki onun nə deyəcəyini səbirsizliklə gözləyirdi.",
+        "choice_text": "Dayların əslində nə olduğunu xana və paşaya danışmaq",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:26:51.515910"
+      },
+      {
+        "node_text": "Həsən xan və paşa Alı kişinin sözlərinə inanmadılar. Həsən xan qəhqəhə çəkib güldü: \"Alı kişi, sən qocalıbsan, yəqin ki, səhv görmüsən! Dəryadan at çıxar? Bu, nağıldır!\" Paşa da təəccüblə başını bulayırdı. Alı kişi israr edib dedi: \"Vallahi, ağam, gözlərimlə gördüm! İnanmırsınızsa, dayları yoxlayaq, görək adi atlardırmı?\" Bu sözdən sonra Həsən xanın marağı oyandı.",
+        "choice_text": "Dayları sınaqdan keçirmək üçün yarış təşkil etmək",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:26:56.747456"
+      }
+    ],
+    "current_node": {
+      "text": "Paşanın marağının artdığını görən Alı kişi dərhal fürsəti əldən vermədi. \"Ağam,\" - deyə dilləndi. \"Əgər icazəniz olsa, bu dayların nəyə qadir olduğunu göstərmək üçün bir yarış təşkil edək. İlxıdakı ən sürətli atlarla yarışsınlar. Onda görərik dəryadan gəlmələri onlara nə bəxş edib.\" Həsən xan qaşlarını çatsa da, paşanın gözlərindəki maraq parıltısını gördükdə razılaşmaqdan başqa çarəsi qalmadı. Paşa da həvəslə bu təklifi qəbul etdi, çünki belə bir tamaşa ona çox maraqlı gəlirdi.",
+      "mood": "tense",
+      "choices": [
+        "Yarışı təxirə salıb, dayları daha yaxşı hazırlamaq",
+        "İlxıdakı ən yaxşı atları yarışa çıxarmaq",
+        "Yarış üçün daha çətin şərtlər irəli sürmək",
+        "Yarışı dərhal təşkil etmək və Allahın köməyinə ümid etmək",
+        "Dayların əvəzinə özünü yarışa qatmaq"
+      ],
+      "cultural_info": "Racing horses is a long standing tradition in Azerbaijan and wider Turkic world. Horse breeds like Karabakh horses are famous."
+    },
+    "created_at": "2025-07-20T02:26:30.566453",
+    "updated_at": "2025-07-20T02:26:56.747467"
+  },
+  "15e77a60-4e41-4b44-9703-22234e8cf918": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 15,
+    "history": [
+      {
+        "node_text": "Həsən xan, enraged, demands Alı kişi find two magnificent stallions worthy of his esteemed guest, a Pasha, within the hour. Alı kişi knows the finest horses of the stable pale in comparison to the unusual foals born from the sea mares he secretly raised. He firmly believes those two young horses are the key to impressing the pasha. But can he convince his master of their worthiness before time runs out? What will he do?",
+        "choice_text": "Stall for time, hoping for a miracle or a change in Həsən xan's mood",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:18.494555"
+      },
+      {
+        "node_text": "Alı kişi's heart sank. He knew these horses' potential, the fire in their blood inherited from the sea. Desperate, he bowed deeply before Həsən xan and the paşa, his voice trembling slightly. \"My lord Həsən xan, and esteemed paşa,\" he began, \"These are young, yes, but they possess a spirit unmatched in the entire ilxı. Give me but one chance to demonstrate their worth, a simple test of speed and endurance.\" He glanced pleadingly at Həsən xan, hoping his years of loyal service would count for something.",
+        "choice_text": "Propose a race showcasing the young horses' hidden abilities",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:22.413772"
+      },
+      {
+        "node_text": "Alı kişi, fear knotting his stomach, bowed low before Həsən xan and the Pasha. \"My lord,\" he said, his voice trembling slightly, \"these young horses may appear thin, but they possess a speed and stamina unseen in your stables. I beseech you, grant me a race to demonstrate their worth. Let them run against your finest stallions; the proof will be in the dust they leave behind.\" The Pasha, intrigued by the old man's audacity, stroked his beard thoughtfully.",
+        "choice_text": "Persuade Həsən xan through flattery: Praising his wisdom",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:29.164676"
+      },
+      {
+        "node_text": "Alı kişi, seeing the Pasha's obvious displeasure and Həsən xan's rising anger, knew he had to tread carefully. He prostrated himself further, his voice now a smooth, honeyed balm. \"My lord Həsən xan,\" he began, \"your wisdom shines brighter than the sun! Who but you could see the latent potential, the hidden fire in these young steeds? They are diamonds in the rough, waiting only for your discerning eye to polish them into jewels worthy of even a paşa.\" He dared to glance at the Pasha, adding, \"Such fine judgment is a mark of true leadership.\"",
+        "choice_text": "Double down on the \"hidden potential\" flattery",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:32.570881"
+      },
+      {
+        "node_text": "Alı kişi pressed on, his voice thick with sincerity. \"My lord Həsən xan,\" he continued, bowing even lower, \"Your wisdom is renowned throughout the land. You possess an eye sharper than any hawk, able to see the potential hidden within the rough. Only you, with your discerning judgment, could recognize the fire that burns within these seemingly ordinary creatures. To underestimate them would be to underestimate your own magnificent abilities to see beyond the surface!\" The Pasha chuckled, clearly amused by Alı kişi's desperate flattery. Həsən xan, though still skeptical, seemed slightly mollified by the praise.",
+        "choice_text": "Agree to a compromise: a shorter, less demanding test",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:36.954386"
+      },
+      {
+        "node_text": "Həsən xan, his face still clouded with annoyance, considered Alı kişi's plea. He didn't want to offend the paşa, but the old man's persistence was intriguing. \"Alright, Alı kişi,\" he conceded, \"We'll have a test. Not a full race, mind you, just a short gallop to the far field and back. If they show even a spark of something special, we'll reconsider.\" He gestured dismissively, \"But if they embarrass me, you'll be facing consequences.\"",
+        "choice_text": "[Choice 3: Offer to ride one of the horses himself to prove their worth.]",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:40.574497"
+      },
+      {
+        "node_text": "Alı kişi, sensing a glimmer of opportunity, straightened his back despite his age. \"My lord,\" he declared, his voice now ringing with conviction, \"if you doubt their potential, allow me, your humble servant, to ride one myself. I am old, but I know horses. Let me demonstrate their spirit, their willingness! A short ride, no more, just enough to show you the fire in their hearts.\" The Pasha raised an eyebrow, intrigued by the old man's bold offer. Həsən xan, seeing a way to resolve the situation without further embarrassment, considered the proposition.",
+        "choice_text": "[Choice 2: The Pasha insists on riding the horse himself",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:44.250946"
+      },
+      {
+        "node_text": "The Pasha, a man used to fine steeds and elaborate displays of horsemanship, raised a skeptical eyebrow. \"Həsən xan, are you sure about this? I'm not accustomed to riding…unproven stock.\" Həsən xan, caught between entertaining his guest and not looking foolish, gestured vaguely. \"Nonsense, Pasha! A little adventure never hurt anyone. Besides,\" he added with a wink, \"it will make for a better story.\" The Pasha, ever the sportsman, chuckled and agreed, choosing the slightly larger of the two horses. Alı kişi, his heart pounding, helped the Pasha mount, whispering a silent prayer to the heavens.",
+        "choice_text": "[Choice 3: Həsən xan wagers a significant sum on the Pasha's ride",
+        "mood": "Tense",
+        "timestamp": "2025-07-20T02:47:47.409038"
+      },
+      {
+        "node_text": "Həsən xan, ever the gambler, saw an opportunity to impress the Pasha and perhaps recoup some pride. \"Very well, Alı kişi,\" he said, a glint in his eye. \"If the Pasha is to ride, let's make things interesting. I wager five hundred gold pieces that the Pasha cannot manage to stay on the horse for even a full circuit of the field! Do you accept, Paşa?\" The Pasha, never one to back down from a challenge, puffed out his chest and grinned, \"Five hundred gold pieces it is, Həsən xan! This will be easier than drinking ayran on a hot day!\"",
+        "choice_text": "[Choice 1: Alı kişi attempts to dissuade Həsən xan from the wager",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:51.074288"
+      },
+      {
+        "node_text": "Alı kişi, seeing the glint of avarice in Həsən xan's eyes, felt a knot of dread tighten in his stomach. He stepped forward, bowing low. \"My lord,\" he pleaded, \"with all respect, wagering such a sum on an untested horse… it is a risk. These horses are young, their true potential unknown, even to me. Would it not be wiser to simply observe their run?\"",
+        "choice_text": "[Choice 4: Attempt to subtly sabotage the ride to prevent the wager",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:54.012136"
+      },
+      {
+        "node_text": "Alı kişi, feigning eagerness, rushed to adjust the saddle before the Pasha mounted. As he tightened the girth, he subtly loosened it again, just enough to cause trouble without being immediately noticeable. He muttered something about ensuring a comfortable fit for the esteemed guest, all the while praying that the horse wouldn't simply throw the Pasha and break his neck. He hoped it would just be a comical tumble, enough to call off the bet and save the day.",
+        "choice_text": "[Choice 3: The Pasha mounts, completely unaware of the danger",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:56.817820"
+      },
+      {
+        "node_text": "The Pasha, resplendent in his finery, settled into the saddle, a picture of confident ease. Alı kişi held his breath, his heart a drum against his ribs. Həsən xan, eyes gleaming with anticipation, clapped his hands, signaling the start of the ride. As a servant cracked a whip to start the horse, Alı kişi could only pray the truth about these mystical steeds remained hidden a little longer.",
+        "choice_text": "[Choice 2: The horse remains calm, a surprising turn of events",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:47:58.797545"
+      },
+      {
+        "node_text": "The Pasha, a man accustomed to fine steeds and gentle rides, settled heavily into the saddle. Alı kişi held his breath, expecting chaos. But nothing happened. The horse stood calmly, unfazed by the Pasha's weight or the surrounding tension. A murmur rippled through the onlookers. Həsən xan, momentarily stunned, recovered quickly, a predatory grin spreading across his face.",
+        "choice_text": "[Choice 2: Alı kişi tries to subtly spook the horse now",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:48:01.512520"
+      },
+      {
+        "node_text": "Alı kişi, with practiced ease, moved behind the horse as if checking the saddle one last time. He subtly rustled a handful of dried leaves he had concealed in his palm, aiming for a spot just behind the horse's flank. He hoped for a controlled jump, not a wild bucking spree, just enough to unnerve the Pasha and discourage the wager. The slightest of flinches would suffice.",
+        "choice_text": "[Choice 2: The horse ignores him, further solidifying its calm",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:48:05.435024"
+      },
+      {
+        "node_text": "With a heavy heart, Alı kişi knew his time for secrets was over. He stepped forward, bowed low before Həsən xan, and spoke in a voice that trembled but carried through the courtyard. \"My Khan, forgive my deception. These are no ordinary horses, but gifts from the sea itself. They possess a spirit that cannot be broken, a loyalty that cannot be bought.\" He then turned to the Pasha, his eyes filled with a desperate plea. \"These horses are not meant for war or parade. They are creatures of freedom and wildness.\"",
+        "choice_text": "[Choice 1: Alı kişi admits the horses' true nature",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:48:08.254717"
+      }
+    ],
+    "current_node": {
+      "text": "Alı kişi stepped forward, his weathered face etched with a mixture of fear and determination. He bowed low before Həsən xan and the bewildered Pasha. \"My Khan,\" he began, his voice trembling slightly, \"These are no ordinary horses. They are born of the sea, gifted by the Dərya itself. Their true power is not in brute strength, but in a spirit yet unbroken.\"",
+      "mood": "tense",
+      "choices": [
+        "[Choice 1: Alı kişi elaborates on the horses' destiny and potential",
+        "]",
+        "[Choice 2: Alı kişi claims the horses are cursed and should be avoided",
+        "]"
+      ],
+      "cultural_info": ""
+    },
+    "created_at": "2025-07-20T02:47:14.784717",
+    "updated_at": "2025-07-20T02:48:08.254729"
+  },
+  "1d53f28b-95dd-4f19-96e8-cfac1b90ec67": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 10,
+    "choices_made": 10,
+    "history": [
+      {
+        "node_text": "You thank the Pasha and ask if you may visit the colts sometimes. The Pasha smiles, and agrees, impressed by your humbleness and clear love for horses. Years later, the colts become legendary steeds, known for their speed, strength, and unwavering loyalty. Their lineage becomes highly prized, and the tale of the old stableman who recognized their potential is passed down through generations. You lived out your days in quiet contentment, knowing you played a part in shaping destiny.",
+        "choice_text": "Summary and Lesson: You chose to believe in the unconventional, to trust your intuition, and to advocate for the unseen potential. The story shows that true worth is not always apparent and sometimes requires courage to defend. It reminds us that loyalty and love can triumph over superficial judgments, and that true greatness lies not in appearance, but in the spirit within. The moral of the story is to embrace the unique qualities in ourselves and others and that sometimes, the greatest treasures are hidden in plain sight.",
+        "mood": "happy",
+        "timestamp": "2025-07-20T02:52:29.214697"
+      },
+      {
+        "node_text": "Alı kişi's heart sank. He saw the disdain in the Pasha's eyes and knew what Həsən xan was thinking. But Alı kişi had nurtured these colts like his own children. He couldn't let them be dismissed so easily. He stepped forward, his voice trembling slightly but filled with conviction. \"My lord,\" he began, \"these are no ordinary horses...\"",
+        "choice_text": "Challenge 3: Remain silent and accept the Pasha's judgment",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:52:33.598471"
+      },
+      {
+        "node_text": "Alı kişi hangs his head, shame burning in his chest. He knows the value of these horses, the fire in their blood, but he cannot speak against the Khan's will and the Pasha's judgment. The Pasha scoffs, and Həsən xan, embarrassed, tries to smooth things over, promising to find a truly magnificent steed elsewhere in his stables. Alı kişi silently begins to untie the colts, his heart heavy with unspoken protest.",
+        "choice_text": "Accept fate and pray for the best: Hope someone else recognizes their worth",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:52:44.630234"
+      },
+      {
+        "node_text": "The Pasha, initially skeptical, listened intently to the old horseman's persuasive words. He observed Alı kişi's deep connection with the horses and saw the renewed spark in their eyes. Finally, he relented, ordering the colts to be given proper care and training. He was even impressed by Ali's foresight. Years later, these horses became legendary steeds, known for their strength and speed.",
+        "choice_text": "Choice 10: The Pasha doesn't believe them and dismisses them",
+        "mood": "happy",
+        "timestamp": "2025-07-20T02:52:59.280366"
+      },
+      {
+        "node_text": "Duman, with Ayaz skillfully guiding him, crosses the finish line a clear winner! The crowd erupts in cheers, completely stunned by the unexpected victory. Həsən xan, recognizing the horse as one he had dismissed, is filled with a mixture of anger and astonishment. Alı kişi, despite his fear, feels a surge of pride and vindication.",
+        "choice_text": "[Choice 1: Ayaz falls off the horse]",
+        "mood": "happy",
+        "timestamp": "2025-07-20T02:53:07.783686"
+      },
+      {
+        "node_text": "The Pasha, initially stunned, was eventually impressed by the colt's spirit and Ayaz's courage. He acknowledged the colt's superior heart and requested it for himself. Həsən xan, overjoyed at the outcome, gifted the colt to the Pasha and rewarded Alı kişi handsomely for his wisdom and foresight. Alı kişi, satisfied that he had protected the horse he had raised, spent the rest of his days in comfort, always remembering the day a young boy and an unlikely colt proved that true value lies not in appearance, but in spirit.",
+        "choice_text": "[Choice 3: The colt runs valiantly, but ultimately loses",
+        "mood": "happy",
+        "timestamp": "2025-07-20T02:53:22.441400"
+      },
+      {
+        "node_text": "Duman and Ayaz, understanding this is their final chance, give the performance of their lives. Duman runs with unmatched speed and grace, Ayaz guiding him with perfect precision. Həsən xan, utterly captivated, finally sees the true potential within the horse. He acknowledges his mistake, praising Alı kişi for his wisdom and Duman for his spirit. From that day on, Duman becomes the Khan's prized steed, and Ayaz his most trusted rider, proving that true worth can be found even in the most unexpected places.",
+        "choice_text": "[Choice 2: Ayaz purposely botches the demonstration",
+        "mood": "happy",
+        "timestamp": "2025-07-20T02:53:33.243791"
+      },
+      {
+        "node_text": "Alı kişi, with nothing left to lose, reveals the extraordinary tale of the sea horses and their offspring. He recounts the night he witnessed the mystical creatures emerge from the sea, imbuing these colts with their power. The Pasha, initially skeptical, is captivated by the conviction in Alı kişi's voice and the spark in the eyes of the colts. He orders a proper test, a race against the Khan's finest steeds, promising freedom to Ayaz and respect to Alı kişi if the colts win.",
+        "choice_text": "[Choice 1: Alı kişi reveals the legend of the sea horses",
+        "mood": "happy",
+        "timestamp": "2025-07-20T02:53:38.799759"
+      },
+      {
+        "node_text": "Alı kişi, his voice trembling slightly but filled with conviction, stepped forward. He bowed deeply to Həsən xan and the Paşa. \"My Khan,\" he began, \"these are no ordinary horses. Their mothers were graced by the sea itself. Legend tells of sea horses, creatures of immense strength and spirit, who sometimes visit our shores, leaving their bloodline in the foals they sire.\" He paused, letting his words sink in, hoping they would understand the unique heritage of the young stallions.",
+        "choice_text": "[Choice 1: The Pasha scoffs at the old man's tale",
+        "mood": "tense",
+        "timestamp": "2025-07-20T02:53:46.914794"
+      },
+      {
+        "node_text": "Alı kişi, remembering the sea horses' swiftness, whispered to Ayaz: \"When the sun is at its highest, think of the waves, feel the ocean's breath, and let the colt run free.\" Ayaz, understanding, waited for the exact moment. As the sun blazed, he pictured the waves and urged Duman forward. The colt surged with unbelievable power, outstripping the Khan’s stallion and winning the race.",
+        "choice_text": "[Choice 1: Ayaz trains Duman relentlessly for the race",
+        "mood": "Happy",
+        "timestamp": "2025-07-20T02:53:49.887748"
+      }
+    ],
+    "current_node": {
+      "text": "Ayaz poured all his energy into preparing Duman. He woke before dawn each day, guiding Duman through rigorous exercises, strengthening his muscles and honing his speed. He learned Duman's every stride, anticipating his movements and becoming one with the stallion. The other stable hands scoffed, seeing only a skinny colt, but Ayaz knew the fire that burned within Duman, the echo of the sea in his blood.",
+      "mood": "determined",
+      "choices": [
+        "[Choice 1: Ayaz seeks advice from Alı kişi on harnessing Duman's power]",
+        "[Choice 2: Ayaz ignores the doubters and focuses solely on physical training]",
+        "[Choice 3: Ayaz tries to sabotage the other horses]"
+      ],
+      "cultural_info": ""
+    },
+    "created_at": "2025-07-20T02:52:17.787309",
+    "updated_at": "2025-07-20T02:53:49.887762"
+  },
+  "f9b889f4-c8ec-41d7-898e-66572809c3b4": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 24,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "Victory is snatched from the jaws of defeat! Ali's wisdom and the mare's hidden strength secure a surprising triumph.",
+      "text": "With a final surge of energy, the mare pulls ahead, crossing the finish line just a hair's breadth before the stallion! The crowd roars its approval, and even the Khan cracks a smile. Ali dismounts, weary but triumphant, patting the mare's flank with pride. He has proven his worth, not through brute force, but through knowledge, wisdom, and trust. **Summary: Ali, initially facing punishment for his choice of horses, used his experience and understanding of horses to win a crucial race. This secured his place and demonstrated that true value lies not in appearances but in inner strength and wisdom. Lesson: Never judge a book by its cover; true potential often lies hidden beneath the surface.**",
+      "mood": "happy",
+      "choices": [
+        "Bask in the applause, accepting the accolades of the crowd",
+        "Offer the winning mare to the Pasha as a gesture of goodwill",
+        "Quietly thank the mare, acknowledging her crucial role in his victory",
+        "Use his newfound influence to advocate for better treatment of horses",
+        "Share his wisdom with the younger stable hands, passing on his knowledge"
+      ],
+      "cultural_info": "Horses hold a revered position in Azerbaijani culture, symbolizing strength, freedom, and grace. Horsemanship is a highly valued skill."
+    },
+    "created_at": "2025-07-20T02:54:54.817474",
+    "updated_at": "2025-07-20T02:54:54.817493"
+  },
+  "4a757ba3-2098-4921-b795-371a45d0f1b9": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 24,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "You prepare for a peaceful death, satisfied with your life.",
+      "text": "As the sun sets on your life, you reflect on your journey. You have faced adversity, overcome challenges, and achieved greatness. You have served your Khan with loyalty, honored your heritage, and inspired others to reach their full potential. You have lived a life of purpose and meaning. You close your eyes, content in the knowledge that your story will be told for generations to come.",
+      "mood": "happy",
+      "choices": [
+        "Tell them the tale of Koroghlu",
+        "Guide them to success after your death",
+        "Create a school for training horses",
+        "Write down the colts' story so it is never forgotten",
+        "Prepare for a peaceful death, satisfied with your life",
+        "Step 24"
+      ],
+      "cultural_info": "Horses hold a central role in many Central Asian cultures, valued for their strength, speed, and loyalty.",
+      "summary": "Alı Kişi's defiance of the Khan, his unwavering belief in the sea-born colts, and his dedication to their training led to a triumphant victory. He secured their legacy and found lasting satisfaction in mentoring others.",
+      "lesson": "True strength lies not just in power, but in courage, wisdom, and unwavering belief in the potential of others. By standing up for what he believed in, Alı Kişi created a legacy that inspired generations."
+    },
+    "created_at": "2025-07-20T02:55:19.974461",
+    "updated_at": "2025-07-20T02:55:19.974470"
+  },
+  "fb0e8b87-54a6-4661-adc0-3d4449f51f41": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 1,
+    "history": [
+      {
+        "node_text": "Alı kişi lived out his days in peace, surrounded by the laughter of children and the gentle neighing of horses. His wisdom guided Hasan Khan to become a better ruler, and his school ensured that the traditions of horsemanship would endure. He passed away a legend, remembered not for his wealth or power, but for his loyalty, humility, and the wisdom that shone through his simple life.",
+        "choice_text": "Declare yourself a prophet and lead a rebellion against Hasan Khan",
+        "mood": "happy",
+        "timestamp": "2025-07-20T02:55:54.290251"
+      }
+    ],
+    "current_node": {
+      "text": "Alı kişi, his face etched with sudden resolve, stepped forward. He straightened his back, his aged eyes blazing with unexpected fire. \"Hasan Khan,\" he declared, his voice resonating with newfound authority, \"I am not just an old horse herder. I have seen visions, dreams granted by the spirits of this land. These are no ordinary horses. They are destined for greatness. And I am destined to guide them and our people to freedom from your tyranny!\"",
+      "mood": "tense",
+      "choices": [
+        "Deny the visions, claiming madness to escape",
+        "Focus on the horses' unique abilities",
+        "Calmly try to explain the horses' potential to the Pasha",
+        "Call upon the villagers for support",
+        "Embellish the visions, promising power to Hasan Khan"
+      ],
+      "cultural_info": "It was very uncommon in that era for a commoner to declare themselves a prophet and challenge the authority of the khan. Such an act would be considered both blasphemous and treasonous."
+    },
+    "created_at": "2025-07-20T02:55:40.492753",
+    "updated_at": "2025-07-20T02:55:54.290285"
+  },
+  "7fe1bcfb-2d14-42e4-bcb4-ba6e5f71c423": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "Alı Kişi has successfully presented the foals and it is time for him to decide his fate.",
+      "text": "Alı Kişi, filled with a righteous fire, decides to \"Gather followers and fight against Hasan Khan, taking the name Koroghlu.\" He realizes that the Khan's cruelty and disregard for the common people cannot be tolerated. He becomes Koroghlu, the champion of the oppressed.",
+      "mood": "happy",
+      "choices": [
+        "Confess everything to Hasan Khan, hoping for forgiveness",
+        "Use this opportunity to leave Hasan Khan's service and live a peaceful life",
+        "Gather followers and fight against Hasan Khan, taking the name Koroghlu",
+        "Train the foals and give them to those in need",
+        "Ride off into the sunset"
+      ],
+      "cultural_info": "Confessing to Hasan Khan could lead to severe punishment, but also forgiveness. Leaving Hasan Khan's service would be seen as a betrayal.\nTaking the name Koroghlu would mark him as a rebel and a champion of the people.\nTraining the foals and giving them to those in need would be a noble act, aligning with the spirit of Koroghlu.\nRiding off into the sunset would be a peaceful, but perhaps unsatisfying, ending.",
+      "summary": "Alı Kişi, a loyal horse herder, discovered foals born of the sea. He had to choose between his loyalty to Hasan Khan and protecting these magnificent creatures. By cleverly training the foals and presenting them to a Pasha, he not only saved them but also revealed Hasan Khan's poor attitude toward those who are truly in need. Ultimately, he embraced his destiny as Koroghlu, a rebel fighting for justice and freedom.",
+      "lesson": "True loyalty is not blind obedience, but a commitment to what is right. Sometimes, standing up for what you believe in, even against powerful figures, is the only path to justice and lasting change."
+    },
+    "created_at": "2025-07-20T02:56:42.251535",
+    "updated_at": "2025-07-20T02:56:42.251550"
+  },
+  "c8c8f2c9-12fb-4d10-a34c-c14b6223ccfe": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 1,
+    "history": [
+      {
+        "node_text": "You have chosen to *Fade into history, content with what he did: Be humble.* Alı kişi's name is not sung in epic poems. But the legacy of the sea horse's lives on. Future generations are forever grateful for his deeds.",
+        "choice_text": "Give all of his wealth away: Support the impoverished",
+        "mood": "Neutral",
+        "timestamp": "2025-07-20T03:04:17.251544"
+      }
+    ],
+    "current_node": {
+      "text": "Koroğlu zalımlara qarşı son döyüşə hazırlaşdı. O bilirdi ki, bu döyüş onun taleyini həll edəcək. Qıratı minib, qılıncını çəkdi və dəstəsi ilə birlikdə zalımların üzərinə hücum etdi. Döyüş şiddətli oldu, amma Koroğlu qələbə qazandı. Zalımlar məğlub oldular və bölgədə ədalət bərqərar oldu. Koroğlu ömrünün sonuna qədər xalqa xidmət etdi.",
+      "mood": "happy",
+      "choices": [
+        "Focus on building a lasting legacy of justice",
+        "Prepare for a final showdown with the ruling powers",
+        "Seek alliances with neighboring tribes and kingdoms",
+        "Retire from his life of rebellion and live peacefully",
+        "Write down his stories for the future generations",
+        "ENDING:"
+      ],
+      "summary": "Alı kişi, dərya atları ilə tanış olduqdan sonra, Xıdır Nəbinin ona bəxş etdiyi atlar və qılıncla Koroğluya çevrildi. O, zülmə qarşı mübarizə apardı, kasıbların səsini ucaltdı və ədalətli bir cəmiyyət yaratdı.",
+      "lesson": "Ədalət və haqq uğrunda mübarizə hər zaman dəyərlidir. Bir nəfərin belə cəsarəti, bütün dünyanı dəyişə bilər.",
+      "story_similarity": 0.6,
+      "cultural_info": "Koroğlu is a legendary folk hero in the Turkic world, known for his bravery, justice, and fight against oppression. Xıdır Nəbi is a revered figure associated with spring, fertility, and granting wishes."
+    },
+    "created_at": "2025-07-20T02:57:04.435924",
+    "updated_at": "2025-07-20T03:04:17.251558"
+  },
+  "b6140fd5-0768-4aa3-a8fa-c0edb253361a": {
+    "story_name": "koroghlu",
+    "language": "english",
+    "max_choices": 15,
+    "choices_made": 1,
+    "history": [
+      {
+        "node_text": "Alı kişi passed away peacefully, knowing he had protected the lineage and entrusted it to capable hands. Gırat, guided by Alı kişi's wisdom, continued to breed the horses. They became symbols of courage and loyalty. The story of Alı kişi and the sea horse colts became a legend, passed down through generations, reminding everyone that true value lies not in appearance, but in heritage, heart, and the wisdom to use power for good. **Summary: Alı kişi faced a moral dilemma and chose wisely, preserving a valuable lineage of horses and entrusting its future to a worthy successor. Lesson: True worth is found in heritage, heart, and the responsible use of power.**",
+        "choice_text": "Ask Gırat to teach everyone he meets the tale of the horses",
+        "mood": "neutral",
+        "timestamp": "2025-07-20T03:05:58.466966"
+      }
+    ],
+    "current_node": {
+      "text": "Yaşasın Koroğlu! Onun adı dillərdə, onun şücaətləri qəlblərdə yaşayacaq. Koroğlu və Qıratın dastanı, xalqın birliyi və azadlığı uğrunda mübarizənin simvolu olaraq əbədi olaraq xatırlanacaq. Bu dastanın qəhrəmanları unudulmayacaq, onların ruhu gələcək nəsillərə yol göstərəcək.",
+      "mood": "happy",
+      "choices": [
+        "Qurtardı! (The End)",
+        "Əlhəmdülillah! (Thanks be to God)",
+        "Yaşasın Koroğlu! (Long live Koroghlu!)",
+        "Dastan bitdi! (The tale is done!)",
+        "Bu belə oldu! (Thus it happened!)"
+      ],
+      "cultural_info": "Ending with \"Yaşasın Koroğlu!\" is a common way to honor the hero and celebrate his legacy.",
+      "summary": "Alı kişi denizdən çıxan atları Koroğluya gətirir. Koroğlu atları sınayıb, onlara Qırat və Dorat adını verir. Koroğlu ve Qırat zalımlara qarşı mübarizə apararaq xalqın qəhrəmanına çevrilirlər.",
+      "lesson": "Ədalət və mərdlik hər zaman qalib gəlir.",
+      "story_similarity": 0.7
+    },
+    "created_at": "2025-07-20T03:04:37.606271",
+    "updated_at": "2025-07-20T03:05:58.466978"
+  },
+  "16283914-a2b3-4a94-90be-f85741fe92eb": {
+    "story_name": "koroghlu",
+    "max_choices": 15,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "Alı kişi’s tale comes to an end.",
+      "text": "Alı kişi, bir daha Həsən xanın ilxısını otardı. Amma bu dəfə, o, daha hörmətli bir insan idi. Onun hekayəsi dillərdə gəzirdi. Və beləliklə, Alı kişi, öz müdrikliyi və hiyləgərliyi ilə bir əfsanəyə çevrildi.",
+      "mood": "happy",
+      "choices": [],
+      "cultural_info": "The story embodies themes of cleverness overcoming brute force, a common element in folk tales."
+    },
+    "created_at": "2025-07-20T09:53:49.405286",
+    "updated_at": "2025-07-20T09:53:49.405296"
+  },
+  "12083293-57eb-48c6-b6a3-36aca077aae7": {
+    "story_name": "koroghlu",
+    "max_choices": 15,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "Good has triumphed.",
+      "text": "Hasan Khan is defeated, his treachery exposed, and his reign of terror brought to an end. The Pasha, with Alı kişi as his trusted advisor, ushers in an era of peace and prosperity. The colt, now a legend in its own right, becomes a symbol of hope and freedom for all. Alı kişi, his life complete, watches the sunset, knowing he played a part in shaping the destiny of the land.",
+      "mood": "happy",
+      "choices": [
+        "Stay and advise the Pasha, shaping a new era of justice",
+        "Ride into the sunset with the colt, seeking new adventures",
+        "Return to the hidden valley, living in harmony with nature",
+        "Share the tale of the colt, ensuring the legend lives on",
+        "Train a new generation of horse tenders, passing on his wisdom"
+      ],
+      "cultural_info": "This ending reflects the themes of justice, loyalty, and the enduring power of legends that are central to the Koroghlu epic."
+    },
+    "created_at": "2025-07-20T09:54:25.516655",
+    "updated_at": "2025-07-20T09:54:25.516663"
+  },
+  "c668cfe8-59e0-49c1-8831-6c9e49b4295d": {
+    "story_name": "koroghlu",
+    "max_choices": 15,
+    "choices_made": 0,
+    "history": [],
+    "current_node": {
+      "introduction": "Despite the consequences, Alı kişi stands by his actions, facing imprisonment with unwavering resolve.",
+      "text": "Alı defended himself, speaking passionately about justice and the rights of the poor. Impressed by Alı's courage and moved by the support of the people, Hasan Khan released Alı. The Khan then started helping the poor. Alı became a symbol of justice, his name whispered with respect and admiration throughout the land. Although, nobody knows of Alı's experience with the djinn.",
+      "mood": "happy",
+      "choices": [],
+      "cultural_info": "The idea of social justice and a hero standing up for the common people is a central theme in many Turkic epics and folklore."
+    },
+    "created_at": "2025-07-20T09:54:56.336218",
+    "updated_at": "2025-07-20T09:54:56.336226"
+  },
+  "6dd4300a-3872-451f-864c-f03272928f0f": {
+    "story_name": "koroghlu",
+    "max_choices": 10,
+    "choices_made": 7,
+    "history": [
+      {
+        "node_text": "Hasan Khan, enraged by Alı kişi's seemingly foolish recommendation of scrawny colts for his esteemed guest, gives him an impossible task. He demands Alı kişi find two exceptional stallions within the hour, fit to impress the Pasha and uphold his reputation. Alı kişi knows the true potential of the colts, born from the sea, but now he must find another way to satisfy the Khan's ego. He says, \"Khan, grant me permission to bring another to help me choose...\"",
+        "choice_text": "But I'll need all the Khan’s advisors to decide with me",
+        "mood": "tense",
+        "timestamp": "2025-07-20T09:55:30.449625"
+      },
+      {
+        "node_text": "Alı kişi, honored by the Pasha's trust, agreed to stay and train the dayı. He revealed the horse's extraordinary lineage, explaining its connection to the mythical sea horses. The Pasha, captivated by the tale, vowed to treat the dayı with the reverence it deserved. Alı kişi's loyalty and wisdom were finally recognized, securing a comfortable future for himself and a legendary destiny for the magnificent dayı.",
+        "choice_text": "Teach the Pasha the secrets of the dayı's heritage",
+        "mood": "happy",
+        "timestamp": "2025-07-20T09:55:43.755754"
+      },
+      {
+        "node_text": "Years later, Alı kişi passes away peacefully, knowing he left the world a better place. The lineage of the sea-born horses continues to flourish, their descendants becoming legendary steeds celebrated throughout the land. Alı kişi's wisdom and the horses' extraordinary heritage are forever remembered in the annals of their people.",
+        "choice_text": "Establish a lasting monument to commemorate the sea-born horses",
+        "mood": "happy",
+        "timestamp": "2025-07-20T09:55:49.070071"
+      },
+      {
+        "node_text": "The Pasha, intrigued by Alı kişi's suggestion, eagerly agreed to immortalize the extraordinary lineage of the sea-born horses. He envisioned a grand monument, a testament to their mythical origins and Alı kişi's wisdom. Together, they persuaded Həsən xan to dedicate a portion of his land near the sea for this purpose. Skilled artisans were summoned, and plans were drawn for a magnificent statue depicting the horses emerging from the waves.",
+        "choice_text": "Let Alı kişi guide the design, honoring his deep connection to the horses",
+        "mood": "happy",
+        "timestamp": "2025-07-20T09:56:00.652538"
+      },
+      {
+        "node_text": "Years passed, and the grove flourished, a testament to Alı kişi's wisdom and dedication. The annual festival grew in popularity, drawing people from across the land to celebrate the sea-born horses and the rich cultural heritage of the region. Alı kişi, surrounded by the children whose lives he had touched, finally rested, knowing he had secured a legacy that would endure for generations to come. His name was forever intertwined with the legend of the sea-born horses, a symbol of wisdom, loyalty, and the enduring power of cultural heritage.",
+        "choice_text": "Establish a permanent foundation to ensure the festival's long-term sustainability",
+        "mood": "happy",
+        "timestamp": "2025-07-20T09:56:15.997661"
+      },
+      {
+        "node_text": "With the Waqf firmly established, the school flourishing, and the festival a resounding success, Alı kişi rests content. He has not only secured the future of the sea-born horses but has also enriched the lives of his community. The legacy of the horses, the wisdom of Alı kişi, and the vibrant traditions he fostered will forever be remembered, echoing through the generations as a testament to the power of vision and dedication.",
+        "choice_text": "Construct special stables using local materials",
+        "mood": "happy",
+        "timestamp": "2025-07-20T09:56:22.902862"
+      },
+      {
+        "node_text": "The race was a blur of motion and thunder. The sea-born horses, despite their lack of formal training, surged ahead, their speed and stamina unmatched. They crossed the finish line in a resounding victory, proving their extraordinary lineage. The Pasha, awestruck by their performance, declared them the finest horses he had ever seen and showered Alı kişi with praise and gifts. The legend of the sea-born horses was secured.",
+        "choice_text": "The race is a close call, decided at the last moment",
+        "mood": "happy",
+        "timestamp": "2025-07-20T10:06:57.487013"
+      }
+    ],
+    "current_node": {
+      "text": "The dust settled, and a hush fell over the crowd. The announcer, voice trembling, declared a tie! An uproar erupted. Such a thing had never happened. Həsən xan, ever the shrewd leader, saw an opportunity. He declared that the tie would be broken not by another race, but by a test of the horses' intelligence and character.",
+      "mood": "tense",
+      "choices": [
+        "Propose a simple test of strength and speed",
+        "Suggest a test of loyalty and obedience",
+        "Argue for a repeat of the race",
+        "Recommend letting Alı kişi decide the tie-breaker",
+        "Insist on sharing both horses equally"
+      ],
+      "cultural_info": "Horse races and displays of horsemanship are integral to Turkic and Azerbaijani culture, often featured in celebrations and displays of power."
+    },
+    "created_at": "2025-07-20T09:55:11.753692",
+    "updated_at": "2025-07-20T10:06:57.487024"
+  }
+}

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Storytelling Test UI</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); margin: 0; padding: 0; min-height: 100vh; }
+    .container { max-width: 700px; margin: 20px auto; background: #fff; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); padding: 32px; }
+    h1 { text-align: center; color: #333; margin-bottom: 32px; }
+    .settings { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin-bottom: 24px; }
+    select, button, input[type=text], input[type=number] { padding: 10px; margin: 8px 0; width: 100%; box-sizing: border-box; border: 2px solid #ddd; border-radius: 6px; font-size: 14px; }
+    select:focus, input:focus { border-color: #667eea; outline: none; }
+    .story-block { margin: 24px 0; padding: 20px; background: linear-gradient(135deg, #f0f4f8 0%, #e2e8f0 100%); border-radius: 8px; border-left: 4px solid #667eea; }
+    .choices { margin: 20px 0; }
+    .choice-btn { display: block; width: 100%; margin: 8px 0; padding: 12px; background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); border: none; border-radius: 6px; cursor: pointer; font-size: 1em; transition: all 0.3s ease; }
+    .choice-btn:hover { background: linear-gradient(135deg, #c7d2fe 0%, #a5b4fc 100%); transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+    .mood { font-style: italic; color: #666; margin: 12px 0; font-weight: bold; }
+    .mood.neutral { color: #6b7280; }
+    .mood.tense { color: #dc2626; }
+    .mood.happy { color: #16a34a; }
+    .cultural-info { margin: 16px 0; padding: 12px; background: #fef3c7; border-left: 4px solid #f59e0b; border-radius: 4px; font-size: 0.9em; }
+    .summary, .lesson { margin: 16px 0; padding: 12px; color: #374151; background: #f3f4f6; border-radius: 6px; }
+    .similarity { margin: 16px 0; padding: 12px; background: #ecfdf5; border-left: 4px solid #10b981; border-radius: 4px; }
+    .similarity-bar { width: 100%; height: 8px; background: #e5e7eb; border-radius: 4px; overflow: hidden; margin: 8px 0; }
+    .similarity-fill { height: 100%; background: linear-gradient(90deg, #dc2626 0%, #f59e0b 50%, #10b981 100%); transition: width 0.8s ease; }
+    .session-info { font-size: 0.85em; color: #6b7280; margin: 8px 0; display: flex; justify-content: space-between; }
+    .api-error { color: #dc2626; margin: 16px 0; padding: 12px; background: #fef2f2; border-left: 4px solid #dc2626; border-radius: 4px; }
+    .progress { margin: 16px 0; }
+    .progress-bar { width: 100%; height: 6px; background: #e5e7eb; border-radius: 3px; overflow: hidden; }
+    .progress-fill { height: 100%; background: #667eea; transition: width 0.3s ease; }
+    .btn-primary { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
+    .btn-primary:hover { background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%); }
+    .btn-reset { background: linear-gradient(135deg, #f87171 0%, #ef4444 100%); color: white; }
+    .btn-reset:hover { background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🏛️ Interactive Storytelling</h1>
+    
+    <div class="settings">
+      <div>
+        <label for="story-select">Story:</label>
+        <select id="story-select">
+          <option value="koroghlu">Koroghlu</option>
+          <option value="dedegorgud">Dede Gorgud</option>
+        </select>
+      </div>
+      
+      <div>
+        <label for="language-select">Language:</label>
+        <select id="language-select">
+          <option value="english">English</option>
+          <option value="azerbaijani">Azerbaijani</option>
+        </select>
+      </div>
+      
+      <div>
+        <label for="max-choices">Max Choices (1-50):</label>
+        <input type="number" id="max-choices" min="1" max="50" value="15">
+      </div>
+    </div>
+    
+    <button class="btn-primary" onclick="startStory()">🚀 Start Adventure</button>
+    
+    <div id="story-area" style="display:none;">
+      <div class="progress">
+        <div class="progress-bar">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+        <div class="session-info">
+          <span id="choice-progress">Choice 0 of 15</span>
+          <span id="session-id"></span>
+        </div>
+      </div>
+      
+      <div class="story-block">
+        <div id="introduction"></div>
+        <div id="story-text"></div>
+        <div class="mood" id="mood"></div>
+        
+        <div id="cultural-info" class="cultural-info" style="display:none;">
+          <strong>📖 Cultural Context:</strong>
+          <div id="cultural-text"></div>
+        </div>
+        
+        <div class="choices" id="choices"></div>
+        
+        <div id="summary" class="summary" style="display:none;">
+          <strong>📜 Journey Summary:</strong>
+          <div id="summary-text"></div>
+        </div>
+        
+        <div id="lesson" class="lesson" style="display:none;">
+          <strong>🎯 Lesson Learned:</strong>
+          <div id="lesson-text"></div>
+        </div>
+        
+        <div id="similarity" class="similarity" style="display:none;">
+          <strong>📊 Story Similarity:</strong>
+          <div>How closely you followed the original epic:</div>
+          <div class="similarity-bar">
+            <div class="similarity-fill" id="similarity-fill"></div>
+          </div>
+          <div id="similarity-text"></div>
+        </div>
+      </div>
+      
+      <button class="btn-reset" onclick="resetStory()">🔄 New Adventure</button>
+    </div>
+    
+    <div class="api-error" id="api-error"></div>
+  </div>
+  <script>
+    let sessionId = null;
+    let storyName = null;
+    let maxChoices = 15;
+    let choicesMade = 0;
+    const apiBase = "http://localhost:8000";
+
+    function showError(msg) {
+      document.getElementById('api-error').textContent = msg;
+    }
+    
+    function clearError() {
+      document.getElementById('api-error').textContent = '';
+    }
+
+    function updateProgress() {
+      const progressPercent = (choicesMade / maxChoices) * 100;
+      document.getElementById('progress-fill').style.width = progressPercent + '%';
+      document.getElementById('choice-progress').textContent = `Choice ${choicesMade} of ${maxChoices}`;
+    }
+
+    function startStory() {
+      clearError();
+      storyName = document.getElementById('story-select').value;
+      const language = document.getElementById('language-select').value;
+      maxChoices = parseInt(document.getElementById('max-choices').value) || 15;
+      choicesMade = 0;
+      
+      fetch(`${apiBase}/stories/start`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 
+          story_name: storyName,
+          language: language,
+          max_choices: maxChoices
+        })
+      })
+      .then(r => r.json())
+      .then(data => {
+        if (data.detail || data.error) {
+          showError(data.detail || data.error);
+          return;
+        }
+        
+        sessionId = data.session_id;
+        document.getElementById('story-area').style.display = '';
+        
+        // Update story content
+        document.getElementById('introduction').textContent = data.introduction || '';
+        document.getElementById('story-text').textContent = data.text || '';
+        
+        // Update mood with styling
+        const moodElement = document.getElementById('mood');
+        if (data.mood) {
+          moodElement.textContent = `Mood: ${data.mood}`;
+          moodElement.className = `mood ${data.mood.toLowerCase()}`;
+        }
+        
+        // Show cultural info if available
+        const culturalInfoDiv = document.getElementById('cultural-info');
+        if (data.cultural_info) {
+          document.getElementById('cultural-text').textContent = data.cultural_info;
+          culturalInfoDiv.style.display = '';
+        } else {
+          culturalInfoDiv.style.display = 'none';
+        }
+        
+        // Clear ending elements
+        document.getElementById('summary').style.display = 'none';
+        document.getElementById('lesson').style.display = 'none';
+        document.getElementById('similarity').style.display = 'none';
+        
+        // Update session info
+        document.getElementById('session-id').textContent = sessionId ? `Session: ${sessionId.substring(0, 8)}...` : '';
+        
+        updateProgress();
+        renderChoices(data.choices || []);
+      })
+      .catch(e => showError('Failed to start story. Is the server running on localhost:8000?'));
+    }
+
+    function renderChoices(choices) {
+      const choicesDiv = document.getElementById('choices');
+      choicesDiv.innerHTML = '';
+      if (choices && choices.length) {
+        choices.forEach((choice, index) => {
+          const btn = document.createElement('button');
+          btn.className = 'choice-btn';
+          btn.textContent = `${index + 1}. ${choice}`;
+          btn.onclick = () => continueStory(choice, btn);
+          choicesDiv.appendChild(btn);
+        });
+      }
+    }
+
+    let waitingForResponse = false;
+    function continueStory(choiceText, btn) {
+      if (waitingForResponse) return;
+      waitingForResponse = true;
+      clearError();
+      // Disable all choice buttons
+      document.querySelectorAll('.choice-btn').forEach(b => b.disabled = true);
+      
+      fetch(`${apiBase}/stories/continue`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          story_name: storyName,
+          session_id: sessionId,
+          choice_text: choiceText
+        })
+      })
+      .then(r => r.json())
+      .then(data => {
+        waitingForResponse = false;
+        // Clear introduction for continuation
+        document.getElementById('introduction').textContent = '';
+        document.getElementById('story-text').textContent = data.text || '';
+        // Update mood
+        const moodElement = document.getElementById('mood');
+        if (data.mood) {
+          moodElement.textContent = `Mood: ${data.mood}`;
+          moodElement.className = `mood ${data.mood.toLowerCase()}`;
+        }
+        // Show cultural info if available
+        const culturalInfoDiv = document.getElementById('cultural-info');
+        if (data.cultural_info) {
+          document.getElementById('cultural-text').textContent = data.cultural_info;
+          culturalInfoDiv.style.display = '';
+        } else {
+          culturalInfoDiv.style.display = 'none';
+        }
+        // Only increment progress if story continues (choices present)
+        if (data.choices && data.choices.length) {
+          choicesMade++;
+          updateProgress();
+          renderChoices(data.choices);
+        } else if (data.summary || data.lesson || data.story_similarity !== undefined) {
+          // Story ended
+          choicesMade++;
+          updateProgress();
+          renderChoices([]); // No more choices
+          if (data.summary) {
+            document.getElementById('summary-text').textContent = data.summary;
+            document.getElementById('summary').style.display = '';
+          }
+          if (data.lesson) {
+            document.getElementById('lesson-text').textContent = data.lesson;
+            document.getElementById('lesson').style.display = '';
+          }
+          if (data.story_similarity !== undefined) {
+            const similarity = data.story_similarity;
+            const percentage = Math.round(similarity * 100);
+            document.getElementById('similarity-fill').style.width = percentage + '%';
+            let similarityText = '';
+            if (similarity >= 0.8) {
+              similarityText = `${percentage}% - You closely followed the original epic!`;
+            } else if (similarity >= 0.5) {
+              similarityText = `${percentage}% - You took a moderately different path.`;
+            } else {
+              similarityText = `${percentage}% - You created a unique adventure!`;
+            }
+            document.getElementById('similarity-text').textContent = similarityText;
+            document.getElementById('similarity').style.display = '';
+          }
+        } else if (data.detail || data.error) {
+          showError(data.detail || data.error);
+        }
+      })
+      .catch(e => { waitingForResponse = false; showError('Failed to continue story.'); });
+    }
+
+    function resetStory() {
+      sessionId = null;
+      storyName = null;
+      choicesMade = 0;
+      maxChoices = 15;
+      
+      document.getElementById('story-area').style.display = 'none';
+      document.getElementById('introduction').textContent = '';
+      document.getElementById('story-text').textContent = '';
+      document.getElementById('mood').textContent = '';
+      document.getElementById('cultural-info').style.display = 'none';
+      document.getElementById('summary').style.display = 'none';
+      document.getElementById('lesson').style.display = 'none';
+      document.getElementById('similarity').style.display = 'none';
+      document.getElementById('choices').innerHTML = '';
+      document.getElementById('session-id').textContent = '';
+      document.getElementById('progress-fill').style.width = '0%';
+      
+      clearError();
+    }
+
+    // Initialize max choices input
+    document.addEventListener('DOMContentLoaded', function() {
+      document.getElementById('max-choices').addEventListener('change', function() {
+        const value = parseInt(this.value);
+        if (value < 1) this.value = 1;
+        if (value > 50) this.value = 50;
+      });
+    });
+  </script>
+</body>
+</html>
